@@ -45,7 +45,7 @@
 ```
 
 ```
-#### Paso 1:
+#### Paso 4:
 ```
 
 ```
@@ -54,6 +54,5 @@
 
 ## API
 
-## About
-
+## Acerca de:
 Este proyecto es realizado por [LUIS ROBERTO FLORES DE LA FUENTE]() y fue escrito por [Luis Gerardo](https://github.com/GitLuisG)
